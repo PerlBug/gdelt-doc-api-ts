@@ -66,3 +66,7 @@ dmypy.json
 # IDE and local testing
 .vscode/
 example.py
+
+
+node_modules/
+dist/
